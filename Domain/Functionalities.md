@@ -1,0 +1,2 @@
+﻿Possible additional functionalities:
+Authorisation
